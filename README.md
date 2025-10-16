@@ -22,7 +22,7 @@ This project focuses on analyzing the **monthly financial performance** of a mid
 ---
 
 ## 📷 Dashboard Snapshot
-![Dashboard](https://github.com/Danikyatham/Monthly-Budget-Performance-Analysis/blob/main/Dashboard%20Snapshot.png)
+![Dashboard](https://github.com/Danikyatham/Financial-Performance-Analysis/blob/main/Dashboard%20Snapshot.png)
 
 ---
 
